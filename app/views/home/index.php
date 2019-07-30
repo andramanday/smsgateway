@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 <div class="container">
@@ -8,4 +9,16 @@
 	  	<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
 	  	<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 	</div>
+=======
+
+
+<div class="container">
+	<div class="jumbotron mt-3">
+	  	<h1 class="display-4">Selamat Datang di website Andra</h1>
+	  	<p class="lead">Hallo nama Saya <?= $data['nama']; ?>.</p>
+	  	<hr class="my-4">
+	  	<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+	  	<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+	</div>
+>>>>>>> 1a877eb8066d2295c3c1f7774ec464b5cbd42538
 </div>
